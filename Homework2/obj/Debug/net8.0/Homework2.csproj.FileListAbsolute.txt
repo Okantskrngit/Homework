@@ -1,0 +1,4 @@
+C:\Users\okant\source\repos\Homework\Homework2\obj\Debug\net8.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okant\source\repos\Homework\Homework2\obj\Debug\net8.0\Homework2.AssemblyInfoInputs.cache
+C:\Users\okant\source\repos\Homework\Homework2\obj\Debug\net8.0\Homework2.AssemblyInfo.cs
+C:\Users\okant\source\repos\Homework\Homework2\obj\Debug\net8.0\Homework2.csproj.CoreCompileInputs.cache
